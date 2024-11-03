@@ -61,3 +61,4 @@ INFO  Temperature = 22.911934
 ```
 ![BH1750, a I2C hub, QMP9688](img/bh1750.jpg)
 
+A short blog entry is [here](https://hkubota.wordpress.com/2024/11/03/embassy-on-rpi-pico-multiple-i2c-devices/).
